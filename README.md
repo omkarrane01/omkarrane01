@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🧬 About Me
 
-<!--
-**omkarrane01/omkarrane01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bash
+> whoami
+🧑‍💻 Developer who loves blending AI, AR & Web Tech
+🧠 Always learning — from Neural Nets to 3D UIs
+🚀 Currently building: Next-gen digital experiences
+🎯 Motto: Think. Build. Break. Fix. Repeat.
+📡 From: Earth 🌍 — Broadcasting Ideas to the Cloud ☁
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
